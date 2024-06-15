@@ -58,7 +58,7 @@ Optimización de eficiencia de combustible: Al analizar la relación entre mpg y
 Predicción de consumo de combustible: Con el modelo de regresión lineal ajustado, puedes prever el consumo de combustible (mpg) esperado para diferentes niveles de potencia (hp). Esto ayuda a los fabricantes de automóviles y a los consumidores a tomar decisiones informadas sobre la selección de vehículos.
 Análisis de rendimiento del motor: El análisis de la relación entre la potencia del motor y la eficiencia de combustible también puede proporcionar información sobre el rendimiento general del motor en términos de economía y potencia, lo cual es crucial para el diseño de motores más eficientes y potentes.
 
-#5 Ingenieria de Datos
+#5 Ingenieria de Datos (https://github.com/ELMAN2000/ElmanH/blob/main/5.%20Ingeniera%20de%20datos.r)
 En este ejercicio, se llevó a cabo un proceso completo de web scraping, limpieza de datos y análisis estadístico utilizando el lenguaje de programación R. A continuación, se describen detalladamente los pasos realizados:
 Instalación y carga de librerías:
 Se instalaron y cargaron varias librerías necesarias para realizar el web scraping y el análisis de datos. Las librerías utilizadas fueron rvest para la extracción de datos de páginas web, dplyr para la manipulación de datos, stringr para el manejo de cadenas de texto y tidyverse que incluye un conjunto de paquetes útiles para el análisis de datos.
