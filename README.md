@@ -1,9 +1,9 @@
 # ElmanH
 Laboratorio final Escenarios
--------------------------------
+
 
 |No.|NombreProyecto|Enlace|
----------------------
+|---|--------------|------|
 |1|  Limpieza y Transformación de Datos|  https://github.com/ELMAN2000/ElmanH/blob/main/1.%20Limpieza%20y%20Transformaci%C3%B3n%20de%20datos%20(skin%20care).r |
 |2|  Análisis de Datos|  https://github.com/ELMAN2000/ElmanH/blob/main/2.%20An%C3%A1lisis%20de%20datos%20poblaciones.r |
 |3|  Visualización de Datos  |https://github.com/ELMAN2000/ElmanH/blob/main/3.%20Visualizaci%C3%B3n%20de%20datos%20jugadoresmejorespagados.r |
