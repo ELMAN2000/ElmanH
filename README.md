@@ -2,6 +2,7 @@
 Laboratorio final Escenarios
 
 Ciencia de Datos
+
 Análisis y cálculos de correlación sobre estadísticas vehiculares (mtcars) proporcionadas por defecto en la plataforma R.
 Se muestra un resumen detallado del modelo de regresión lineal ajustado, incluyendo coeficientes, estadísticas de ajuste y significancia de las variables predictoras. Este paso es crucial para entender la relación cuantitativa entre las variables.
 
