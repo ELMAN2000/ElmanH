@@ -31,7 +31,7 @@ Gráfica de Barras: Muestra los 10 valores más altos de la población en 2023.
 Gráfica de Líneas: Compara la población de los top 10 países entre 2023 y 2024.
 Gráfica de Columnas Apiladas: Comparación directa de la población entre 2023 y 2024 para los top 10 países.
 
-#3 Visualización de datos
+#3 Visualización de datos (https://github.com/ELMAN2000/ElmanH/blob/main/3.%20Visualizaci%C3%B3n%20de%20datos%20jugadoresmejorespagados.r)
 La base de datos presenta los ingresos anuales de varios atletas de diferentes disciplinas deportivas en millones de dólares. Cada fila representa un atleta y su ingreso anual en un año específico. 
 Interpretaciones
 Comparar los ingresos de los atletas fácilmente.
