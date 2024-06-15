@@ -3,7 +3,7 @@ Laboratorio final Escenarios
 Resumen general:
 El proyecto abarca cinco ejercicios distintos en R, cada uno con enfoques específicos de análisis de datos. Incluye desde la limpieza y análisis de datos de una empresa de cuidado de la piel, hasta el análisis poblacional de países y los ingresos de atletas destacados. Además, se exploran modelos de regresión para eficiencia de combustible y se lleva a cabo web scraping para obtener y analizar información de la Fórmula 1. Cada ejercicio proporciona insights únicos mediante visualizaciones y estadísticas, apoyando decisiones estratégicas en diferentes campos con un enfoque integral en la ciencia de datos y la ingeniería de datos.
 
-#1 Limpieza y Transformación de Datos
+#1 Limpieza y Transformación de Datos (https://github.com/ELMAN2000/ElmanH/blob/main/1.%20Limpieza%20y%20Transformaci%C3%B3n%20de%20datos%20(skin%20care).r)
 Se trabajó con una base de datos en el contexto de una empresa que vende productos de cuidado de la piel. 
 ¿Cuáles son los productos de cuidado de la piel más valorados por los clientes?
 Al analizar las calificaciones de los productos según el número de estrellas, se puede identificar qué productos tienen las mejores valoraciones y son, por lo tanto, los favoritos de los clientes.
